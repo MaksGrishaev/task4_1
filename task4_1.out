@@ -1,0 +1,16 @@
+--- HardWare --
+CPU: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
+RAM: 2048108 kB
+Motherboard: Intel Corporation440BX Desktop Reference Platform
+System Serial Number: VMware-42 15 ab a9 fb 14 f5 5e-4a 48 48 f8 64 02 71 73
+--- System ---
+OS Distribution: Ubuntu 16.04.4 LTS
+Kernel version: 4.4.0-116-generic
+Installation date: Фев 23 11:39
+Hostname: ansible-srv
+Uptime: 4 weeks, 47 minutes
+Processes running: 129
+Users logged in: 1
+--- Network ---
+lo: 127.0.0.1/8
+ens160: 192.168.1.162/24
